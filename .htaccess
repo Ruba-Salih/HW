@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^book$ /project/views/book.php [L]
+RewriteRule ^manage$ /project/views/manage.php [L]
+RewriteRule ^$ /project/views/index.php [L]
