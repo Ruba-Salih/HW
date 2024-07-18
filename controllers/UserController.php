@@ -1,6 +1,6 @@
 <?php
 /* FileName: UserController.php
-   Author: Raghad
+   Author: Raghad, Ruba
    CreationDate: 23/06/24
    Purpose: Handles user registration, login, and logout actions. 
    It processes form submissions for user registration and login, manages user sessions, 

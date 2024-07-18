@@ -1,6 +1,6 @@
 <?php
 /* FileName: Task.php
-   Author: Raghad
+   Author: Raghad, Ruba
    CreationDate: 23/06/24
     Purpose: This class handles CRUD operations for tasks in a task management system.
             It allows for the creation, reading, updating, and deletion of tasks.

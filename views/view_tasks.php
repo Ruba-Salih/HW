@@ -1,7 +1,7 @@
 <?php
 /* 
     FileName: view_tasks.php
-    Author: Raghad
+    Author: Raghad, Ruba
     CreationDate: 17/07/24
     Purpose: This file is responsible for displaying and managing tasks. It includes functionalities 
              to view, update, and delete tasks. It interacts with the TaskController to perform these actions.

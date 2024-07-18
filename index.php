@@ -1,6 +1,6 @@
 <?php
 /* FileName: index.php
-   Author: Raghad
+   Author: Raghad, Ruba
    CreationDate: 17/07/24
    Purpose: This file serves as the main controller for the application, handling different actions based on URL parameters.
             It includes necessary files for database connection, user management, and task operations.

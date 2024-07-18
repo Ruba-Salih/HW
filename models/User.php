@@ -1,6 +1,6 @@
 <?php
 /* FileName: User.php
-   Author: Raghad
+   Author: Raghad, Ruba
    CreationDate: 28/06/24
    Purpose: This class handles user management in a system, including user registration and login functionalities.
             It interacts with a database table named "users" to register new users and authenticate existing ones.

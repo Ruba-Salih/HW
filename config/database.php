@@ -1,6 +1,6 @@
 <?php
 /* FileName: database.php
-   Author: Raghad
+   Author: Raghad, Ruba
    CreationDate: 10/07/24
    Purpose: manage the connection to a MySQL database for a PHP application. 
 */

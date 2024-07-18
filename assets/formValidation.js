@@ -1,5 +1,5 @@
 /* FileName: FormValidation.php
-   Author: Raghad
+   Author: Raghad, Ruba
    CreationDate: 10/07/24
    Purpose: The assets/formValidation.js file handles client-side validation for different forms on the page.
 */
